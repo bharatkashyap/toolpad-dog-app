@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "@mui/toolpad": "^0.1.13"
+  },
+  "engines": {
+    "node": ">=16.17"
   }
 }
